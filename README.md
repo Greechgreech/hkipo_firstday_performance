@@ -13,6 +13,7 @@
 ### 1.3 汇总财务数据和非财务数据；数据清洗；特征工程
         file：data_cleaning_feature_building.ipynb >>> ipo_20190808.xlsx 
         
-## 2 数据分析        
+## 2 数据分析     
+(***进行中***）
 
         
